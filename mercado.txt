@@ -1,3 +1,5 @@
 arroz
 feijão
 macarão
+oleo
+sal
